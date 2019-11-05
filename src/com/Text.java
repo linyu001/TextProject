@@ -9,5 +9,8 @@ public class Text {
 		String time =sip.format(new Date());
 	    System.out.println(time);
 	}
+	public void add(){
+		
+	}
 
 }
