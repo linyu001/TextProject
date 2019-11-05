@@ -6,6 +6,7 @@ public class Helloword {
 		int b=1;
 		System.out.println("ninhao ");
 		int a=0;
+		System.out.println("1212");
 	}
 
 }
