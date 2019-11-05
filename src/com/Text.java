@@ -9,5 +9,9 @@ public class Text {
 		String time =sip.format(new Date());
 	    System.out.println(time);
 	}
+	
+	public String getStr (){
+		return "hello word";
+	}
 
 }
