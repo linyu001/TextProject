@@ -1,7 +1,7 @@
 package aa;
 
 public class aaa {
-  static int abc=1001;
+  static int abc=123;
 
   public static void main(String[] args) {
 	System.out.println(abc);
