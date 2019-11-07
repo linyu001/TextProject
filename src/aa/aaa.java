@@ -3,6 +3,6 @@ package aa;
 public class aaa {
 
 	public static void main(String[] args) {
-		System.out.println("adf");
+		System.out.println("sdf");
 	}
 }
